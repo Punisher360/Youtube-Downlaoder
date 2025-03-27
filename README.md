@@ -2,7 +2,6 @@
 
 A powerful desktop application for downloading YouTube videos, gathering video information, and organizing content by upload date. Built with Python using yt-dlp and DearPyGUI.
 
-![YouTube Downloader Screenshot](screenshot.png)
 
 ## Features
 

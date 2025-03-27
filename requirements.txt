@@ -1,0 +1,5 @@
+yt-dlp==2025.03.26
+dearpygui>=1.9.0
+requests>=2.31.0
+pyperclip>=1.8.2
+concurrent-futures>=3.0.5
